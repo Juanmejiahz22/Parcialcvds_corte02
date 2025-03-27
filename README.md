@@ -1,5 +1,5 @@
 # Backend_Parcial
-
+- Todo el codigo del backend toco subirlo en .zip porque github no me dejaba subirlo descomprimido ya que son muchos archivos.
 ## Partes Backend
 ### Diseño de arquitectura
 ![image](https://github.com/user-attachments/assets/3be2c5f0-36de-4f2e-abc9-3f35f759d473)
